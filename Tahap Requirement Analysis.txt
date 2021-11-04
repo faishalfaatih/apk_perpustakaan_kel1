@@ -1,0 +1,13 @@
+Tahap Analisis
+1.	Pemilik perpustakaan.
+    a.	Pemilik bisa melakukan login dan logout.
+    b.	Bisa melihat laporan peminjaman buku.
+2.	Penjaga perpustakaan.
+    a.	Penjaga bisa melakukan login dan logout.
+    b.	Bisa mengelola laporan.
+    c.	Bisa mengelola data anggota.
+    d.	Bisa mengelola data peminjaman buku.
+3.	Anggota 
+    a.	Anggota bisa melakukan login dan logout.
+    b.	Bisa melakukan peminjaman buku.
+    c.	Bisa mengelola data pribadi.
